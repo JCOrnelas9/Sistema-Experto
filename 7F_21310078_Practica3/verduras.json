@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Zanahoria",
+        "color": "naranja",
+        "type": "ra\u00c3\u00adz",
+        "flavor": "dulce"
+    },
+    {
+        "name": "Cebolla",
+        "color": "blanco",
+        "type": "bulbo",
+        "flavor": "picante"
+    },
+    {
+        "name": "Br\u00c3\u00b3coli",
+        "color": "verde",
+        "type": "flor",
+        "flavor": "amargo"
+    },
+    {
+        "name": "Lechuga",
+        "color": "verde",
+        "type": "hoja",
+        "flavor": "suave"
+    },
+    {
+        "name": "Pepino",
+        "color": "verde",
+        "type": "fruta",
+        "flavor": "fresco"
+    },
+    {
+        "name": "Espinaca",
+        "color": "verde",
+        "type": "hoja",
+        "flavor": "suave"
+    },
+    {
+        "name": "Berenjena",
+        "color": "morado",
+        "type": "fruta",
+        "flavor": "amargo"
+    },
+    {
+        "name": "Manzana",
+        "color": "Rojo",
+        "type": "Fruto",
+        "flavor": "Dulce"
+    },
+    {
+        "name": "Ajo",
+        "color": "Blanco",
+        "type": "Raiz",
+        "flavor": "Picante"
+    }
+]
