@@ -1,0 +1,62 @@
+{
+    "Punto Blanco": {
+        "sintomas": [
+            "Puntos blancos",
+            "Frotamiento contra objetos",
+            "Inactividad"
+        ],
+        "tratamiento": "Incrementar la temperatura del agua gradualmente y usar medicamentos antiparasitarios.",
+        "causa": "Parásito protozoo Ichthyophthirius multifiliis",
+        "prevencion": "Mantener una buena calidad de agua y evitar cambios bruscos de temperatura.",
+        "contagioso": true,
+        "duracion": "3-7 días con tratamiento adecuado"
+    },
+    "Podredumbre de Aletas": {
+        "sintomas": [
+            "Aletas deshilachadas",
+            "Decoloración",
+            "Pérdida de apetito"
+        ],
+        "tratamiento": "Administrar medicamentos antibacterianos y realizar cambios frecuentes de agua.",
+        "causa": "Infección bacteriana (Aeromonas o Pseudomonas)",
+        "prevencion": "Evitar estrés y mantener el acuario limpio.",
+        "contagioso": true,
+        "duracion": "5-10 días con tratamiento adecuado"
+    },
+    "Hongo": {
+        "sintomas": [
+            "Manchas algodonosas",
+            "Desprendimiento de aletas",
+            "Inactividad"
+        ],
+        "tratamiento": "Aplicar tratamientos antifúngicos y mejorar la calidad del agua.",
+        "causa": "Infección fúngica (Saprolegnia spp.)",
+        "prevencion": "Eliminar materia orgánica en descomposición y mantener buena calidad del agua.",
+        "contagioso": true,
+        "duracion": "7-14 días dependiendo del tratamiento"
+    },
+    "Hexamita": {
+        "sintomas": [
+            "Perdida de apetito",
+            "Nado erratico",
+            "Perdida de peso"
+        ],
+        "tratamiento": "Aplicar tratamiento antiparasitario como Metronidazol",
+        "causa": "Enfermedad causada por protozooz",
+        "prevencion": "Mantener buenas condiciones de agua y aplicar ajo o aditamentos con ajo en comida",
+        "contagioso": true,
+        "duracion": "3 a 4 dias"
+    },
+    "Tuberculosis": {
+        "sintomas": [
+            "Bulto en el cuerpo",
+            "manchas obsucras ",
+            "deformidad"
+        ],
+        "tratamiento": "Metronidazol",
+        "causa": "bacteria",
+        "prevencion": "buenos parametros de agua",
+        "contagioso": true,
+        "duracion": "4-5 "
+    }
+}

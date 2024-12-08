@@ -1,0 +1,82 @@
+{
+    "Guppy": {
+        "pH": [
+            6.5,
+            7.5
+        ],
+        "temp": [
+            22,
+            28
+        ],
+        "dureza": [
+            10,
+            20
+        ],
+        "tamaño_acuario": "20 litros",
+        "ejemplares_recomendados": 3
+    },
+    "Neon Tetra": {
+        "pH": [
+            6.0,
+            7.0
+        ],
+        "temp": [
+            20,
+            26
+        ],
+        "dureza": [
+            1,
+            10
+        ],
+        "tamaño_acuario": "30 litros",
+        "ejemplares_recomendados": 6
+    },
+    "Betta": {
+        "pH": [
+            6.0,
+            7.5
+        ],
+        "temp": [
+            24,
+            30
+        ],
+        "dureza": [
+            5,
+            15
+        ],
+        "tamaño_acuario": "10 litros",
+        "ejemplares_recomendados": 1
+    },
+    "Mikrogeophagus Ramirezi ": {
+        "pH": [
+            4.5,
+            6.5
+        ],
+        "temp": [
+            23.0,
+            30.0
+        ],
+        "dureza": [
+            1.0,
+            6.0
+        ],
+        "tamaño_acuario": "80",
+        "ejemplares_recomendados": 2
+    },
+    "Arowana": {
+        "pH": [
+            6.0,
+            7.2
+        ],
+        "temp": [
+            24.0,
+            28.0
+        ],
+        "dureza": [
+            3.0,
+            10.0
+        ],
+        "tamaño_acuario": "4500",
+        "ejemplares_recomendados": 1
+    }
+}
